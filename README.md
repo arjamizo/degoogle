@@ -144,6 +144,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Wire](https://wire.com/en/) - **14-eyes** - Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
   - [Riot](https://about.riot.im/) - Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
   - [Threema](https://threema.ch/en) - Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel
+  - [Jami](https://jami.net/) - Jami is a GNU project backed by the Free Software Foundation and distributed under a GPLv3 license.
   - *Editor note: See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
   - I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.
 - Gmail
